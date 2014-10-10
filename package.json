@@ -1,5 +1,6 @@
 {
   "name": "static-server",
+  "description": "This is a boilerplate code just to serve static files.",
   "version": "0.0.1",
   "private": false,
   "author": "Julio Canares",
