@@ -1,0 +1,17 @@
+{
+  "name": "static-server",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Julio Canares",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.10.x"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
