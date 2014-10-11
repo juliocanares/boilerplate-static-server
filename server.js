@@ -20,5 +20,5 @@ app.set('port', process.env.PORT || 3000);
 
 var server = app.listen(app.get('port'), function () {
     var baseUrl = 'http://127.0.0.1:' + server.address().port;
-    console.log('Express server listening  on ' + );
+    console.log('Express server listening  on ' +  baseUrl);
 });
